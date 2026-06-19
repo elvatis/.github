@@ -36,6 +36,4 @@ Heads-down on the core work. The repos here are a window into how we build, not 
 
 <p align="center">
   <a href="https://elvatis.com">elvatis.com</a> &nbsp;&middot;&nbsp; Munich, Germany
-  <br/>
-  <sub>English is our default. Eine deutsche Fassung gibt es auf Anfrage.</sub>
 </p>
