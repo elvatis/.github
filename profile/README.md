@@ -14,13 +14,15 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/NIS2-Compliant-1a5276?style=flat" />
     <img src="https://img.shields.io/badge/ISO_27001-Expert-c0392b?style=flat" />
+    <img src="https://img.shields.io/badge/ISO_9001-Quality-e67e22?style=flat" />
     <img src="https://img.shields.io/badge/TISAX-AL3-2c3e50?style=flat" />
+    <img src="https://img.shields.io/badge/GDPR-Compliant-27ae60?style=flat" />
   </p>
 </div>
 
-***
+---
 
-We are a lean German engineering company. We don't try to be everything. We work on a narrow set of hard problems where security, regulatory reality (NIS2, ISO 27001, TISAX, GDPR) and modern AI actually meet, and we try to build the tooling we wished already existed.
+We are a lean German engineering company. We don't try to be everything. We work on a narrow set of hard problems where security, regulatory reality (NIS2, ISO 27001, ISO 9001, TISAX, GDPR) and modern AI actually meet, and we try to build the tooling we wished already existed.
 
 Most of what lives here is **infrastructure and developer tooling**, not products: the things we reach for daily and would rather maintain in the open than rebuild in private.
 
@@ -44,11 +46,11 @@ Heads-down on the core work. The repos here are a window into how we build, not 
 
 ### Featured
 
-[
-[
-[
+<a href="https://github.com/elvatis/elvatis-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elvatis&repo=elvatis-mcp&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/elvatis/conduit-vscode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elvatis&repo=conduit-vscode&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/elvatis/conduit-bridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elvatis&repo=conduit-bridge&theme=dark&hide_border=true" /></a>
 
-***
+---
 
 <p align="center">
   <a href="https://elvatis.com">elvatis.com</a> &nbsp;&middot;&nbsp;
